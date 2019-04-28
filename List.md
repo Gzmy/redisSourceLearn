@@ -38,8 +38,8 @@ typedef struct list {
 
 
 - 链表结点API
-:-: | :-:
 函数 | 作用
+:-: | :-:
 listCreate | 创建一个不包含任何结点的新链表
 listRelease| 释放给定链表,以及链表中所有结点
 listAddNodeHead | 将一个包含给定值的新节点添加到给定链表的表头
